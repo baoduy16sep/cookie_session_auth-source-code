@@ -31,7 +31,8 @@ Chưa login hoặc chưa gửi cookie
    Logout khi chưa login -> session rỗng
 <img width="2578" height="1716" alt="image" src="https://github.com/user-attachments/assets/1cc07e96-dc57-417a-b1f8-296ad5fae3cc" />
 Logout thành công
-
+<img width="2571" height="1704" alt="image" src="https://github.com/user-attachments/assets/519552b5-4a3e-4f72-b480-475deebb0610" />
+<img width="2778" height="1778" alt="image" src="https://github.com/user-attachments/assets/ec3e9368-0b53-41ae-939d-b7b3d3de3c75" />
 
 
    
